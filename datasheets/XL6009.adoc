@@ -1,0 +1,16 @@
+= XL6009
+
+== Specifications
+
+* Module Properties: Non- isolated boost (BOOST)
+* Rectification: Non- Synchronous Rectification
+* Input Range: 3.8V - 32V
+* Output Range: 1.25V - 35V
+* Max 4A Switching Current
+* Conversion efficiency: <94% ( the greater the pressure , the lower the efficiency )
+* Switching frequency: 400KHz
+* Output Ripple: 50mV ( the higher the voltage, the greater the current, the greater the ripple )
+* Load Regulation: ± 0.5%
+* Voltage Regulation: ± 0.5%
+* Operating Temperature: -40°C to +85°C
+* Dimensions: 48 x  25 x 14mm ( L x W x H )

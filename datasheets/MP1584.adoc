@@ -1,0 +1,13 @@
+= MP1584 DC/DC Step Down Module
+
+== Specifications:
+* Input Voltage: 4.5V ~ 28V
+* Output Voltage: 0.8V ~ 20V
+* Output Current: 3A (Max)
+* Conversion Efficiency: 96% (max)
+* Output Ripple: <30mV
+* Operating frequency: 1 , 5 MHz (maximum) typically 1MHz
+* Operating temperature: -45 ° C ~ + 85 ° C
+* Size: 22mm * 17mm (L * W)
+
+Applications: DIY mobile force, monitoring power supply, power buggies, camera power supply, car power supply of communication equipment, etc.
