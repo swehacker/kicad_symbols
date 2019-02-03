@@ -1,0 +1,15 @@
+= WEMOS D1 MINI 3.1.0
+
+== Features
+* 11 digital input/output pins, all pins have interrupt/pwm/I2C/one-wire supported(except D0)
+* 1 analog input(3.2V max input)
+* a Micro USB connection
+* Compatible with MicroPython, Arduino, nodemcu
+* All of the IO pins have interrupt/pwm/I2C/one-wire support except D0.
+* All of the IO pins run at 3.3V.
+
+== Tutorials
+https://wiki.wemos.cc/tutorials:get_started:revert_to_at_firmware[Revert to the Factory Firmware (AT)]
+
+== Documentation
+link:datasheets/WEMOS_D1_MINI/sch_d1_mini_v3.0.0.pdf[Schematic V3.0.0]
